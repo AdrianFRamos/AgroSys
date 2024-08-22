@@ -1,0 +1,13 @@
+c:\Users\User\Desktop\Adrian\agro\PIMFazendaUrbana\PIMFazendaUrbanaLib\bin\Debug\net8.0\PIMFazendaUrbanaLib.deps.json
+c:\Users\User\Desktop\Adrian\agro\PIMFazendaUrbana\PIMFazendaUrbanaLib\bin\Debug\net8.0\PIMFazendaUrbanaLib.dll
+c:\Users\User\Desktop\Adrian\agro\PIMFazendaUrbana\PIMFazendaUrbanaLib\bin\Debug\net8.0\PIMFazendaUrbanaLib.pdb
+c:\Users\User\Desktop\Adrian\agro\PIMFazendaUrbana\PIMFazendaUrbanaLib\obj\Debug\net8.0\PIMFazendaUrbanaLib.csproj.AssemblyReference.cache
+c:\Users\User\Desktop\Adrian\agro\PIMFazendaUrbana\PIMFazendaUrbanaLib\obj\Debug\net8.0\PIMFazendaUrbanaLib.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\Adrian\agro\PIMFazendaUrbana\PIMFazendaUrbanaLib\obj\Debug\net8.0\PIMFazendaUrbanaLib.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\Adrian\agro\PIMFazendaUrbana\PIMFazendaUrbanaLib\obj\Debug\net8.0\PIMFazendaUrbanaLib.AssemblyInfo.cs
+c:\Users\User\Desktop\Adrian\agro\PIMFazendaUrbana\PIMFazendaUrbanaLib\obj\Debug\net8.0\PIMFazendaUrbanaLib.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\Adrian\agro\PIMFazendaUrbana\PIMFazendaUrbanaLib\obj\Debug\net8.0\PIMFazendaUrbanaLib.sourcelink.json
+c:\Users\User\Desktop\Adrian\agro\PIMFazendaUrbana\PIMFazendaUrbanaLib\obj\Debug\net8.0\PIMFazendaUrbanaLib.dll
+c:\Users\User\Desktop\Adrian\agro\PIMFazendaUrbana\PIMFazendaUrbanaLib\obj\Debug\net8.0\refint\PIMFazendaUrbanaLib.dll
+c:\Users\User\Desktop\Adrian\agro\PIMFazendaUrbana\PIMFazendaUrbanaLib\obj\Debug\net8.0\PIMFazendaUrbanaLib.pdb
+c:\Users\User\Desktop\Adrian\agro\PIMFazendaUrbana\PIMFazendaUrbanaLib\obj\Debug\net8.0\ref\PIMFazendaUrbanaLib.dll
