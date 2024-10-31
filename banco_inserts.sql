@@ -6,10 +6,10 @@ INSERT INTO `funcionario` (`nome_funcionario`, `cpf_funcionario`, `sexo_funciona
 ('Adrian Ramos', '114.293.399-77', 'M', 'ramosadrian403@gmail.com', 'Gerente', 'adrian.r', 'Ozy1210#', true);
 
 INSERT INTO `enderecofuncionario` (`logradouro_endfuncionario`, `numero_endfuncionario`, `complemento_endfuncionario`, `bairro_endfuncionario`, `cidade_endfuncionario`, `uf_endfuncionario`, `cep_endfuncionario`, `ativo_endfuncionario`, `id_funcionario`) VALUES
-('Rua Marechal Deodoro da Fonseca', '1701', 'Ap', 'Rocio', 'Uniao da Vitoria', 'PR', '84600-906', true, 22);
+('Rua Marechal Deodoro da Fonseca', '1701', 'Ap', 'Rocio', 'Uniao da Vitoria', 'PR', '84600-906', true, 1);
 
 INSERT INTO `telefonefuncionario` (`ddd_telfuncionario`, `numero_telfuncionario`, `ativo_telfuncionario`, `id_funcionario`) VALUES
-('42', '998726282', true, 22);
+('42', '998726282', true, 1);
 
 ## Cliente
 INSERT INTO `cliente` (`nome_cliente`, `email_cliente`, `cnpj_cliente`, `ativo_cliente`) VALUES
